@@ -40,6 +40,5 @@ I’m a **Software Developer Co-op at the Commonwealth of Massachusetts** and a 
 💻 [Portfolio](https://your-portfolio-link.com)
 
 ---
-
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
+ 
 > Always eager to collaborate, learn, and build something impactful.
