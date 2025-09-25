@@ -6,30 +6,12 @@ I’m a **Software Developer Co-op at the Commonwealth of Massachusetts** and a 
 
 ## 🛠️ Tech Toolbox
 
-**Core Programming & DSA**  
-- DSA (Java)
-- Object-Oriented Design, Design Patterns, Algorithms & Data Structures
-
-**Backend Development**  
-- Java • Spring Boot • Hibernate  
-- Node.js • Express.js  
-- REST APIs • MVC Architecture
-
-**Frontend Development**  
-- React.js • HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap
-
-**Databases & Data Layer**  
-- MySQL • PostgreSQL • MongoDB • SQL Server • JDBC/ORM concepts
-
-**DevOps & Cloud**  
-- Docker • AWS (EC2, S3, IAM) • GitHub Actions • CI/CD pipelines 
-
-**Version Control & Collaboration**  
-- Git • GitHub • Agile/Scrum • Git branching & workflow
-
-**Other Tools & Practices**  
-- VS Code • IntelliJ IDEA • NetBeans • Visual Studio  
-- Responsive Web Design • JSON & API integrations
+- **DSA (Java)** 
+- **Java, JavaScript, Node.js, Express.js, Spring Boot, Hibernate**
+- **React, HTML, CSS, REST APIs, and Responsive Web Design**
+- **MySQL, PostgreSQL, MongoDB, SQL Server**
+- **Docker, AWS (EC2/S3), GitHub Actions, CI/CD, Agile/Scrum**
+- Always learning **DevOps, Cloud, and scalable system design**
 
 
 ## 📫 Let’s Connect
