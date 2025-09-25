@@ -1,14 +1,9 @@
 # Hi, I'm Gayatri! 👋
 
 Welcome to my GitHub profile.  
-I’m a **Software Developer Co-op at the Commonwealth of Massachusetts** and a **Master’s student in Information Systems at Northeastern University (Boston)**, passionate about building scalable software and exploring new technologies.
+I’m a **Software Developer Co-op at the Commonwealth of Massachusetts** and a **Master’s student in Information Systems at Northeastern University, graduating May 2026**, passionate about building scalable software and exploring new technologies.
 
 ---
-
-## 🚀 About Me
-
-- 💼 **Current Role**: Software Developer Co-op @ Commonwealth of Massachusetts  
-- 🎓 **Education**: Master’s in Information Systems, Northeastern University (Boston), graduating **May 2026**.
 
 
 ## 🛠️ Tech Toolbox
