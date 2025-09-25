@@ -3,8 +3,6 @@
 Welcome to my GitHub profile.  
 I’m a **Software Developer Co-op at the Commonwealth of Massachusetts** and a **Master’s student in Information Systems at Northeastern University, graduating May 2026**, passionate about building scalable software and exploring new technologies.
 
----
-
 
 ## 🛠️ Tech Toolbox
 
