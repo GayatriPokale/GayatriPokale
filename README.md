@@ -35,7 +35,7 @@ I’m a **Software Developer Co-op at the Commonwealth of Massachusetts** and a 
 ## 📫 Let’s Connect
 
 📍 Boston, MA  
-✉️ [your-email@example.com](gayatripokale247@gmail.com)  
+✉️ [gayatripokale247@gmail.com](gayatripokale247@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gayatripokale/)  
 💻 [Portfolio](https://your-portfolio-link.com)
 
